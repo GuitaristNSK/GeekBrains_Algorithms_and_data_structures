@@ -1,9 +1,8 @@
-package Lesson_5.HomeWork_5;
+﻿package Lesson_5.HomeWork_5;
 
 import java.util.ArrayList;
 
 public class Main {
-//    static double result = 1;
 
     public static void main(String[] args) {
         System.out.println(homeWorkTask1(2, 3));
